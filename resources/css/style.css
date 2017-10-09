@@ -1,0 +1,482 @@
+ol , ul {list-style: none;}
+
+* {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+h1 {
+	font-size: 40px;
+	font-weight: bold;
+	margin: 0;
+}
+
+h2 {
+	font-size: 18px;
+	margin: 0;
+	font-weight: 100;
+}
+
+button {
+	cursor: pointer;
+}
+
+a:active {
+
+}
+
+/* Welcome - first block */
+.welcome {
+	background: #87509C;
+	height: 600px;
+	padding-top: 60px;
+}
+
+.center-block {
+	width: 1140px;
+	margin: 0 auto;
+	text-align: center;
+	height: 100%;
+}
+
+.logo {
+	float: left;
+	padding-left: 62px;
+}
+
+.menu {
+	float: right;
+}
+
+.menu li {
+	display: inline-block;
+}
+
+.menu li a {
+	color: white;
+	text-decoration: none;
+	padding: 10px 17px 9px 17px;
+	margin-right: 10px;
+}
+
+.menu li a:hover {
+	background: #643A79;
+	border-radius: 5px;
+}
+
+.start-txt {
+	color: white;
+	text-align: center;
+	margin: auto;
+	padding-top: 147px;
+}
+
+.div-but {
+	margin-top: 54px;
+}
+
+.but-wark {
+	color: white;
+	background: #EB7D4B;
+	border-radius: 4px;
+	border: 0;
+	border-bottom: solid 4px #C86A40;
+	width: 236px;
+	padding: 24px 29px 18px 29px;
+	font-size: 18px;
+}
+
+/* services */
+
+.services {
+	height: 747px;
+	padding-top: 119px;
+	background: #17C2A4;
+	text-align: center;
+	color: white;
+}
+
+.blocks-services {
+	width: 25%;
+	float: left;
+	margin-top: 80px;
+}
+
+.grey-line {
+	margin: auto;
+	margin-top: 21px;
+	margin-bottom: 23px;
+	width: 87px;
+	height: 4px;
+	background: #14A58C;
+	text-align: center;
+}
+
+.txt-blocks {
+	width: 190px;
+	margin: auto;
+}
+
+.main-txt-blocks {
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.block-main-txt {
+	margin: 55px 0 30px 0;
+}
+
+/* team */
+
+.team {
+	height: 914px;
+	background: #E7F1F8;
+	text-align: center;
+	color: #3C4761;
+	width: 100%;
+}
+
+.div-start-team {
+	padding-top: 120px;
+}
+
+.blocks-3-layer {
+	text-align: center;
+	width: 25%;
+	float: left;
+	margin: auto;
+	margin-top: 85px;
+}
+
+.sirqle-photo {
+	height: 200px;
+	width: 200px;
+	background: #878787;
+	border-radius: 100%;
+	text-align: center;
+	margin: auto;
+	margin-bottom: 40px;
+}
+
+.blue-line {
+	margin: auto;
+	margin-top: 21px;
+	margin-bottom: 23px;
+	width: 87px;
+	height: 4px;
+	background: #C8D9E5;
+	text-align: center;
+}
+
+.name-people {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.div-4-people {
+	text-align: center;
+	width: 100%;
+}
+
+.proffesion {
+	color: #30bae7;
+	margin: 16px 0 30px 0;
+}
+
+.div-txt-people {
+	width: 200px;
+	margin: auto;
+}
+
+.div-sosail {
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+	margin: 5px;
+	margin-top: 30px;
+}
+
+/* skills */
+
+.skills {
+	height: 655px;
+	width: 100%;
+	background: white;
+	color: #3C4761;
+}
+
+.first-txt-skils {
+	padding-top: 117px;
+}
+
+.div-4-skils {
+	font-weight: bold;
+	font-size: 24px;
+	color: #3C4761;
+}
+
+.div-skils {
+	float: left;
+	width: 25%;
+	margin: auto;
+	text-align: center;
+	padding-top: 85px;
+}
+
+.lable-skils-div {
+	padding-top: 30px;
+}
+
+/* portfolio */
+
+.portfolio {
+	height: 1423px;
+	width: 100%;
+	background: #FFDD99;
+	color: #393939;
+}
+
+.first-str-portfolio {
+	padding-top: 120px;
+}
+
+.orange-line {
+	background: #E5C37F;
+}
+
+.second-txt-skils-2 {
+	margin-top: 6px;
+}
+
+.line-btn-portfolio {
+	margin-top: 45px;
+}
+
+.btn-portfolio {
+	margin: 0 5px 0 5px;
+	background: #EBC985;
+	color: #393939;
+	border: 0;
+	border-radius: 5px;
+	padding: 10px 20px 10px 20px;
+	font-size: 18px;
+}
+
+.btn-portfolio:hover {
+	background: white;
+}
+
+.comp-4 {
+	float: left;
+	width: 50%;
+	margin: auto;
+	text-align: center;
+}
+
+.lable-comp {
+	font-size: 18px;
+}
+
+.div-comp-4-all {
+	height: 840px;
+}
+
+.img-comp {
+	margin-bottom: 25px;
+	margin-top: 60px;
+}
+
+.div-last-btn-portfolio {
+	margin: auto;
+	margin-top: 90px;
+	text-align: center;
+}
+
+.btn-portfolio-last {
+	background: #17C2A4;
+	color: white;
+	height: 65px;
+	width: 300px;
+	border: 0;
+	border-bottom: 4px solid #14A58C;
+	border-radius: 5px;
+}
+
+/* about */
+
+.about {
+	height: 894px;
+	width: 100%;
+	background: #D74680;
+	color: white;
+}
+
+.first-str-about {
+	padding-top: 120px;
+}
+
+.pink-line {
+	background: #B73C6D;
+}
+
+.serqle-grey {
+	width: 96px;
+	height: 96px;
+	border-radius: 100%;
+	background: #787878;
+	float: left;
+}
+
+.comment {
+	float: left;
+	width: 50%;
+	margin: auto;
+	text-align: left;
+	margin-top: 80px;
+}
+
+.comment:nth-child(3) ,
+.comment:nth-child(4) {
+	margin-top: 160px;
+}
+
+.comment-italic {
+	font-style: italic;
+	font-size: 21px;
+	height: 110px;
+}
+
+.second-div-comment {
+	width: 90%;
+	padding-left: 150px;
+}
+
+.name-people-comment {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.proffesion-comment {
+	color: #FDD798;
+	font-size: 18px;
+}
+
+/* touch */
+
+.touch {
+	height: 817px;
+	width: 100%;
+	background: #3C5499;
+	color: white;
+}
+
+.black-line {
+	background: #273A71;
+}
+
+.first-str-touch {
+	padding-top: 120px;
+}
+
+.input-touch {
+	border-radius: 5px;
+	border: 0;
+	background: #273A71;
+	height: 55px;
+	width: 414px;
+	padding: 20px 25px 20px 25px;
+	font-size: 18px;
+	color: white;
+}
+
+.input-touch-placeholder::-webkit-input-placeholder {
+    color:    #FFF;
+}
+.input-touch-placeholder:-moz-placeholder {
+   color:    #FFF;
+   opacity:  1;
+}
+.input-touch-placeholder::-moz-placeholder {
+   color:    #FFF;
+   opacity:  1;
+}
+.input-touch-placeholder:-ms-input-placeholder {
+   color:    #FFF;
+}
+.input-touch-placeholder::-ms-input-placeholder {
+   color:    #FFF;
+}
+
+.div-input-line {
+	padding-top: 80px;
+	text-align: center;
+}
+
+.div-input {
+	float: left;
+	text-align: left;
+	width: 50%;
+	padding-left: 16px;
+}
+
+.div-input:nth-child(1) {
+	text-align: right;
+	padding-right: 16px;
+}
+
+.textarea-touch {
+	height: 200px;
+	width: 860px;
+	padding: 25px;
+	border-radius: 5px;
+	border: 0;
+	background: #273A71;
+	color: white;
+	font-size: 18px;
+}
+
+.div-textarea {
+	padding-top: 27px;
+	clear: both;
+}
+
+.btn-touch {
+	width: 293px;
+	font-size: 18px;
+	height: 66px;
+	border: 0;
+	border-bottom: 4px solid #299EC5;
+	background: #30BAE7;
+	color: white;
+}
+
+.div-btn-touch {
+	padding-top: 59px;
+}
+
+/* sosial-media-bottom */
+
+.sosial-media-bottom {
+	border-top: 1px solid #5C6BA2;
+	height: 112px;
+	text-align: center;
+	width: 100%;
+	background: #344B8E;
+	color: white;
+}
+
+.sosial-media-blocks {
+	text-align: center;
+	display: inline-block;
+	color: white;
+	padding: 28px;
+	padding-top: 45px;
+}
+
+.link-media {
+	text-decoration: none;
+	font-size: 24px;
+}
+
+.link-media:visited	{
+	color: #30BAE7;
+}
